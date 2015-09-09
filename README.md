@@ -16,6 +16,8 @@ npm install postcss-tatar-stylesheets --save
 
 ![](https://github.com/azat-io/postcss-tatar-stylesheets/blob/master/postcss-tatar-stylesheets.png?raw=true)
 
+[Full list of properties and values](https://github.com/azat-io/postcss-tatar-stylesheets/blob/master/list.md)
+
 ## License
 
 MIT © [Azat S.](https://github.com/azat-io/postcss-tatar-stylesheets)
