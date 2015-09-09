@@ -1,0 +1,29 @@
+{
+  "name": "postcss-tatar-stylesheets",
+  "version": "0.0.0",
+  "description": "PostCSS plugin for writing Tatar Style Sheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | tap-spec"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "tap-spec": "^2.2.2",
+    "tape": "^3.5.0"
+  },
+  "homepage": "https://github.com/azat-io/postcss-tatar-stylesheets",
+  "author": {
+    "name": "Azat S.",
+    "email": "azatklevec@gmail.com",
+    "url": "https://github.com/azat-io/postcss-tatar-stylesheets"
+  },
+  "repository": "azat-io/postcss-tatar-stylesheets",
+  "dependencies": {
+    "postcss": "^4.1.11"
+  }
+}
