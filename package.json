@@ -9,7 +9,10 @@
   "keywords": [
     "css",
     "postcss",
-    "postcss-plugin"
+    "postcss-plugin",
+    "tatarstan",
+    "tatar",
+    "tatar-stylesheets"
   ],
   "license": "MIT",
   "devDependencies": {
