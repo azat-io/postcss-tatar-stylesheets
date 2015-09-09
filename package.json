@@ -1,6 +1,6 @@
 {
   "name": "postcss-tatar-stylesheets",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin for writing Tatar Style Sheets",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
   },
   "repository": "azat-io/postcss-tatar-stylesheets",
   "dependencies": {
-    "postcss": "^4.1.11"
+    "lodash": "^3.10.1",
+    "postcss": "^5.0.2"
   }
 }
