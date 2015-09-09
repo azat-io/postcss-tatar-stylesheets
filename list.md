@@ -2,6 +2,7 @@
 
 ## Properties
 
+```js
 'animation': 'анимация',
 'animation-delay': 'анимацияне-тоткарлау',
 'background': 'фон',
@@ -69,9 +70,11 @@
 'width': 'иң',
 'word-spacing': 'интервал',
 'z-index': 'блокның-дәрәҗәсе'
+```
 
 ## Values
 
+```js
 'block': 'блок',
 'bold': 'калын',
 'bolder': 'бик-калын',
@@ -101,9 +104,11 @@
 'transparent': 'үтә-күренмә',
 'underline': 'ассызыклау',
 'uppercase': 'баш-хәреф'
+```
 
 ## Colors
 
+```js
 'black': 'кара',
 'blue': 'зәңгәр',
 'brown': 'коңгырт',
@@ -116,3 +121,4 @@
 'skyblue': 'күк-төсе',
 'white': 'ак',
 'yellow': 'сары'
+```
