@@ -4,9 +4,9 @@ var plugin = require('./');
 var name = require('./package.json').name;
 
 var tests = [{
-    message: 'should transform css',
-    fixture: 'h1 { color: red }',
-    expected: 'h1 { color: red }',
+    message: 'Should transform css',
+    fixture: 'div { фон: кызгылт-сары; калкавыч: уң; тышкыара: 30px 20px; өске-эчке-ара: 40px; блокның-дәрәҗәсе: 1 }',
+    expected: 'div { background: orange; float: right; margin: 30px 20px; padding-top: 40px; z-index: 1 }',
     options: {foo: true}
 }];
 
