@@ -4,7 +4,7 @@
   "description": "PostCSS plugin for writing Tatar Style Sheets",
   "main": "index.js",
   "scripts": {
-    "test": "tape test.js | tap-spec"
+    "test": "ava && eslint test.js"
   },
   "keywords": [
     "css",
@@ -16,8 +16,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "tap-spec": "^2.2.2",
-    "tape": "^3.5.0"
+    "ava": "^0.7.0",
+    "eslint": "^1.10.2"
   },
   "homepage": "https://github.com/azat-io/postcss-tatar-stylesheets",
   "author": {
@@ -28,6 +28,6 @@
   "repository": "azat-io/postcss-tatar-stylesheets",
   "dependencies": {
     "lodash": "^3.10.1",
-    "postcss": "^5.0.2"
+    "postcss": "^5.0.10"
   }
 }
