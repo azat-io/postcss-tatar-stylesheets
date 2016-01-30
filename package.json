@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.7.0",
+    "ava": "^0.11.0",
     "eslint": "^1.10.2"
   },
   "homepage": "https://github.com/azat-io/postcss-tatar-stylesheets",
@@ -27,7 +27,7 @@
   },
   "repository": "azat-io/postcss-tatar-stylesheets",
   "dependencies": {
-    "lodash": "^3.10.1",
+    "lodash": "^4.1.0",
     "postcss": "^5.0.10"
   }
 }
